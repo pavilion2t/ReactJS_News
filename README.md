@@ -1,2 +1,2 @@
 # ReactJS_News
-!()[http://oq6t8cpwh.bkt.clouddn.com/news.jpg]
+![](http://oq6t8cpwh.bkt.clouddn.com/news.jpg)
